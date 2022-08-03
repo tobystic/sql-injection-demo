@@ -32,7 +32,7 @@
     ?>
       <form class="form-inline" action="lib/login.php" method="post">
         <input class="form-control mr-sm-2" type="text" placeholder="Username" name="username">
-        <input class="form-control mr-sm-2" type="password" placeholder="Passwort" name="password">
+        <input class="form-control mr-sm-2" type="password" placeholder="Password" name="password">
         <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Login</button>
       </form>
     <?php
@@ -49,7 +49,7 @@
   <?php
 }
 ?>
-  <h1>Onlineshop Coffee</h1>
+  <h1>Onlineshop CoffeeShop</h1>
   <form action="index.php" method="get">
     <div class="form-group">
       <label for="blendFilter">Blend Name</label>
