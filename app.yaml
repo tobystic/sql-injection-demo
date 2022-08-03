@@ -19,3 +19,5 @@ env_variables:
   DB_USERNAME: sql_injection
   DB_PASSWORD: foobar
 
+beta_settings:
+  cloud_sql_instances: sampleappgcp:us-central1:coffeeshop
