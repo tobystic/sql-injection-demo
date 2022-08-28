@@ -44,7 +44,7 @@
     unset($_SESSION['login_error']);
     ?>
     <div class="alert alert-danger" role="alert">
-      Login Failed. Username or Password is wrong.
+      Login Failed. Your Username or Password may be wrong.
     </div>
   <?php
 }
