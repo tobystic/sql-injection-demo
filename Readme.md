@@ -4,10 +4,10 @@
   <a href="#"><img src="./docs/images/shop_screenshot.jpg" /></a>
 </p>
 
-The prupose of this mockup of a simple webshop is to demonstrate the sql injection vulnerability. In this project all database queries used are intentionally vulnerable to sql injection.
+This Coffeeshop app is used to demonstrate the sql injection and cross site scripting vulnerabilities. In this project, all database queries used are intentionally vulnerable to SQL injection. The original Coffeeshop app can be found [here](https://github.com/lebalz/sql-injection-demo)
 
 ### Filter
-The listed products can be filtered by the `Blend Name`. The userinput is not sanitized what makes it vulnerable for sql injections.
+The listed products can be filtered by the `Blend Name`. The user input is not sanitized what makes it vulnerable for sql injections.
 * sort or filter by custom attribute
 * edit entries
 * drop table
